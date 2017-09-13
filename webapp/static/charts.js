@@ -22,7 +22,7 @@
 
                 // scale
                 var whScale = d3.scale.linear()
-                        .domain([0, 3])
+                        .domain([0, 7])
                         .range([chart_height, 0]);
                 var wpScale = d3.scale.linear()
                         .domain([0, 18])
