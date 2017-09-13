@@ -1,4 +1,4 @@
- var api = "https://surfcheck-api.herokuapp.com/surfchecks";
+ var api = "https://surfcheck-api.herokuapp.com/surfchecks/wavereports";
             //var api = "http://localhost:5001/surfchecks";
 
 
